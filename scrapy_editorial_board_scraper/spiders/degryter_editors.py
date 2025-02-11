@@ -17,6 +17,9 @@ USER_AGENTS = [
 class EditorialBoardSpider(scrapy.Spider):
     name = "editorial_spider"
     start_urls = [
+
+        # these are the urls of de gruyter journals that were indexed in the PJIP as of Feb 2025
+        
         'https://www.degruyter.com/journal/key/auk/html',
         'https://www.degruyter.com/journal/key/apeiron/html',
         'https://www.degruyter.com/journal/key/agph/html',
