@@ -11,7 +11,4 @@ Publishers covered includes:
 4. Elsevier (playwright)
 
 
-Planned:
-Data - Scrape operational mertics
-
-Publishers - Springer, Brill, Taylor and Francis, Wiley
+Planned: Data - Scrape operational mertics, Publishers - Springer, Brill, Taylor and Francis, Wiley
