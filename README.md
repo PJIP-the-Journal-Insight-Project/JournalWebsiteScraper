@@ -9,6 +9,7 @@ Publishers covered includes:
 2. de Gryter (scrapy)
 3. Oxford University Press (playwright)
 4. Elsevier (playwright)
+5. Brill (playwright)
 
 
-Planned: Data - Scrape operational mertics, Publishers - Springer, Brill, Taylor and Francis, Wiley
+Planned: Data - Scrape operational mertics, Publishers - Springer Taylor and Francis, Wiley
