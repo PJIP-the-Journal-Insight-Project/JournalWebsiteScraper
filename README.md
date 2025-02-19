@@ -1,15 +1,26 @@
-# JournalWebsiteScraper
-A set of webscrapers (Scrapy and Playwright) setup to collect data from academic journal websites.
+# Journal Website Scraper
+A collection of web scrapers using Scrapy and Playwright to extract data from academic journal websites.
 
-Data collected currently includes:
-1. List of Editors
+### Features
+- Collects editorial board information from journal webpages
+- Uses Scrapy for structured, lightweight scraping
+- Uses Playwright for JavaScript-heavy websites
+- Implements randomised user agents and delays
+- Saves strucuted data to csv
 
-Publishers covered includes:
-1. Cambridge University Press (scrapy)
-2. de Gryter (scrapy)
-3. Oxford University Press (playwright)
-4. Elsevier (playwright)
-5. Brill (playwright)
+### Data Collected
+- Editorial board members' names
 
+### Publishers Covered
+Scrapy: 
+- Cambridge University Press
+- De Gruyter
+  
+Playwright:
+- Oxford University Press
+- Elsevier
+- Brill
 
-Planned: Data - Scrape operational mertics, Publishers - Springer Taylor and Francis, Wiley
+### Planned Development
+Data: Scrape operational metrics
+Publishers: Springer, Taylor & Francis, Wiley
